@@ -1,0 +1,74 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+h1 {
+  color: rgb(17, 9, 9);
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300; /* if you want the light version */
+}
+
+#profile-pic {
+  height: 200px;
+  border-radius: 10%;
+}
+
+.card-container {
+  width: 50vw;
+  margin: 3vh auto !important;
+  background-color: rgb(216, 222, 228);
+  text-align: center;
+  padding: 5vh 5vw;
+  box-shadow: 3px 3px 12px rgba(18, 18, 18, 0.588);
+  border-radius: 8px;
+}
+h1 {
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  color: #870d0f;
+}
+
+h2 {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(1, 155, 155);
+}
+
+p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: larger;
+}
+
+.list-inline li {
+  display: inline-block;
+  font-size: 32px;
+  margin-right: 12px;
+  color: rgb(10, 10, 10);
+}
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.btn-le-wagon {
+  text-decoration: none;
+  box-shadow: 2px 2px 5px rgb(235, 114, 134);
+  padding: 10px 6px;
+  background-color: #d81518bc;
+  color: white;
+  font-weight: bolder;
+  font-size: larger;
+  display: inline-block;
+}
+.btn-le-wagon:hover {
+  background-color: #f6a3a5;
+  transition: 0.3s;
+  color: rgb(186, 46, 72);
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  color: black;
+}
